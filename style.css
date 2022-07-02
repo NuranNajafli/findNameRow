@@ -1,0 +1,11 @@
+table{
+    width: 600px;
+    height: 300px;
+
+}
+td{
+    border: 1px solid gray;
+}
+.hide{
+    display: none;
+}
